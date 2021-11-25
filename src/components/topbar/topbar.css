@@ -21,11 +21,7 @@
     cursor: pointer;
   }
 
-  .menu{
-    color: #46119b;
-    cursor: pointer;
-  }
-  
+ 
   .topbarCenter {
     flex: 5;
     
@@ -105,17 +101,8 @@
     cursor: pointer;
     justify-content: space-around;
   }
-
-  
-  
- 
-
-  .margin-top {
-     position:sticky;
     
 
-    
-}
 
 
 
